@@ -31,7 +31,7 @@ A simple Android Stopwatch application developed using Java and Android Studio.
 
 ### Reset Stopwatch
 
-![Reset](screenshots/Reset.jpeg)
+![Reset](screenshots/Stop.jpeg)
 
 ### Lap Time History
 
